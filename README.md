@@ -1,4 +1,9 @@
-# test-repo
-This is a test repository
+# Introduction
 
-*TODO* add more content
+This is a repository created by *Katie*
+
+## Usage
+
+Run this command to execute the application:
+
+
