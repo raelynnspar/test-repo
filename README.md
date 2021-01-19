@@ -7,4 +7,4 @@ This is a repository created by *Katie*
 Run this command to execute the application:
 
 
-'python filename.py'
+`python filename.py`
